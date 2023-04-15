@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Kateryna-Borysenko/animated-gradient-border/static/css/main.31ef2076.css",
+    "main.js": "/Kateryna-Borysenko/animated-gradient-border/static/js/main.3b217300.js",
+    "index.html": "/Kateryna-Borysenko/animated-gradient-border/index.html",
+    "main.31ef2076.css.map": "/Kateryna-Borysenko/animated-gradient-border/static/css/main.31ef2076.css.map",
+    "main.3b217300.js.map": "/Kateryna-Borysenko/animated-gradient-border/static/js/main.3b217300.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31ef2076.css",
+    "static/js/main.3b217300.js"
+  ]
+}
